@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "workspaces": [
+    "src/*"
+  ],
+  "scripts": {
+    "doctoc": "doctoc --maxlevel 2 README.md .github/CONTRIBUTING.md",
+    "test": "npm run lint",
+    "lint": "eslint .",
+    "lint:fix": "npm run lint -- --fix"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "babel-eslint": "8.2.1",
+    "eslint": "4.16.0",
+    "eslint-config-algolia": "13.0.1",
+    "eslint-config-prettier": "2.9.0",
+    "eslint-plugin-import": "2.8.0",
+    "eslint-plugin-prettier": "2.5.0",
+    "prettier": "1.10.2"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "zorgs",
+  "version": "0.0.1",
+  "description": "🦑 JavaScript API to get GitHub organization stats",
+  "keywords": [
+    "GitHub",
+    "GraphQL",
+    "organizations",
+    "stats",
+    "statistics"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "apollo-cache-inmemory": "1.1.5",
+    "apollo-client": "2.2.0",
+    "apollo-link-context": "1.0.3",
+    "apollo-link-http": "1.3.2",
+    "graphql": "0.12.3",
+    "graphql-tag": "2.6.1",
+    "node-fetch": "1.7.3"
+  },
+  "devDependencies": {
+    "eslint-plugin-graphql": "1.5.0",
+    "@gr2m/github-graphql-schema": "1.8.0"
+  },
+  "license": "MIT"
+}
