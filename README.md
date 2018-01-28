@@ -14,6 +14,7 @@ Missing:
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
+- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 
