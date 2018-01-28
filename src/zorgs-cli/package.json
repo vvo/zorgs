@@ -18,6 +18,10 @@
     "table": "4.0.2",
     "zorgs": "1.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vvo/zorgs.git"
+  },
   "bin": {
     "zorgs": "src/index.js"
   },

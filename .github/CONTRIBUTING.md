@@ -20,5 +20,7 @@ To run this project, you will need:
 
 ```sh
 yarn
-yarn start
+cd src/zorgs-cli
+yarn link
+# now `zorgs` command line is linked to your local files
 ```
