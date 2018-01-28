@@ -7,7 +7,8 @@
     "doctoc": "doctoc --maxlevel 2 README.md .github/CONTRIBUTING.md",
     "test": "npm run lint",
     "lint": "eslint .",
-    "lint:fix": "npm run lint -- --fix"
+    "lint:fix": "npm run lint -- --fix",
+    "release": "lerna publish --exact --conventional-commits"
   },
   "license": "MIT",
   "dependencies": {
