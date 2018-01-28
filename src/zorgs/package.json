@@ -1,6 +1,6 @@
 {
   "name": "zorgs",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "🦑 JavaScript API to get GitHub organization stats",
   "keywords": [
     "GitHub",
@@ -20,8 +20,8 @@
     "node-fetch": "1.7.3"
   },
   "devDependencies": {
-    "eslint-plugin-graphql": "1.5.0",
-    "@gr2m/github-graphql-schema": "1.8.0"
+    "@gr2m/github-graphql-schema": "1.8.0",
+    "eslint-plugin-graphql": "1.5.0"
   },
   "license": "MIT"
 }
