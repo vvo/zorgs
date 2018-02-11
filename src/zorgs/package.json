@@ -16,7 +16,7 @@
     "apollo-link-context": "1.0.5",
     "apollo-link-http": "1.3.3",
     "graphql": "0.13.0",
-    "graphql-tag": "2.6.1",
+    "graphql-tag": "2.7.3",
     "node-fetch": "1.7.3"
   },
   "repository": {
