@@ -54,9 +54,9 @@
     lodash "^4.2.0"
     to-fast-properties "^2.0.0"
 
-"@gr2m/github-graphql-schema@1.10.0":
-  version "1.10.0"
-  resolved "https://registry.yarnpkg.com/@gr2m/github-graphql-schema/-/github-graphql-schema-1.10.0.tgz#4551a68d37950828c3c605d95825bd702ba89d7d"
+"@gr2m/github-graphql-schema@1.11.0":
+  version "1.11.0"
+  resolved "https://registry.yarnpkg.com/@gr2m/github-graphql-schema/-/github-graphql-schema-1.11.0.tgz#4d6a5188904ff48d367e9d038504ba10afb47a89"
   dependencies:
     axios "^0.17.1"
     git-diff "^2.0.4"
