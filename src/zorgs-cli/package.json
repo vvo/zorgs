@@ -15,7 +15,7 @@
     "boxen": "1.3.0",
     "chalk": "2.3.1",
     "ora": "1.4.0",
-    "table": "4.0.2",
+    "table": "4.0.3",
     "zorgs": "1.0.1"
   },
   "repository": {
