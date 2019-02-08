@@ -18,7 +18,7 @@
     "eslint-config-prettier": "4.0.0",
     "eslint-plugin-import": "2.16.0",
     "eslint-plugin-prettier": "2.7.0",
-    "prettier": "1.16.1"
+    "prettier": "1.16.4"
   },
   "devDependencies": {
     "lerna": "2.11.0"
