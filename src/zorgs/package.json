@@ -11,8 +11,8 @@
   ],
   "main": "src/index.js",
   "dependencies": {
-    "apollo-cache-inmemory": "1.4.2",
-    "apollo-client": "2.4.12",
+    "apollo-cache-inmemory": "1.4.3",
+    "apollo-client": "2.4.13",
     "apollo-link-context": "1.0.14",
     "apollo-link-http": "1.5.11",
     "graphql": "0.13.2",
