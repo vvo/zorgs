@@ -13,8 +13,8 @@
   "dependencies": {
     "apollo-cache-inmemory": "1.6.2",
     "apollo-client": "2.6.2",
-    "apollo-link-context": "1.0.17",
-    "apollo-link-http": "1.5.14",
+    "apollo-link-context": "1.0.18",
+    "apollo-link-http": "1.5.15",
     "graphql": "0.13.2",
     "graphql-tag": "2.10.1",
     "node-fetch": "1.7.3"
