@@ -12,7 +12,7 @@
   "main": "src/index.js",
   "dependencies": {
     "apollo-cache-inmemory": "1.6.2",
-    "apollo-client": "2.6.2",
+    "apollo-client": "2.6.3",
     "apollo-link-context": "1.0.18",
     "apollo-link-http": "1.5.15",
     "graphql": "0.13.2",
