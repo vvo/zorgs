@@ -14,7 +14,7 @@
   "dependencies": {
     "babel-eslint": "8.2.6",
     "eslint": "4.19.1",
-    "eslint-config-algolia": "13.3.0",
+    "eslint-config-algolia": "13.4.0",
     "eslint-config-prettier": "4.3.0",
     "eslint-plugin-import": "2.18.0",
     "eslint-plugin-prettier": "2.7.0",
